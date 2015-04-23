@@ -1,3 +1,11 @@
+Tutorial 1
+
+Que 1: Command: ls
+Que 2: Command: head -25 filename.txt
+Que 2(b): head -n 25 filename.txt
+Que 3: man *.txt
+
+
 Christopher Maxwell
 chris.reviresco@gmail.com
 Honours Project: Charateristic of Entanglement Source, Quantum Information and Processing
